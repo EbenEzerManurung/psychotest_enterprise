@@ -1,6 +1,6 @@
 <div align="center">
 
-🧠
+<img width="90" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9d1-200d-1f4bb.png" alt="person working on laptop" />
 
 # Psychotest Enterprise
 
@@ -28,6 +28,7 @@
 ---
 
 ## 📖 Overview
+
 
 **Psychotest Enterprise** is an end-to-end psychometric assessment platform that helps HR teams run intelligent, secure, and tamper-resistant candidate screening — from registration and test assignment to live camera proctoring, integrity scoring, and analytics-driven reporting.
 
@@ -397,69 +398,39 @@ Psychotest Enterprise uses a calm green palette designed for long test sessions 
 <td width="50%">
 
 **Login — Enterprise Theme**
-<img src="docs/login.png" alt="Login screen" />
+<img width="1909" height="988" alt="image" src="https://github.com/user-attachments/assets/93133a5e-ba50-4b6c-b1a7-4c1071c74a85" />
 
-*Clean login flow with demo credentials and calm green gradient.*
-
-</td>
-<td width="50%">
 
 **HR Dashboard**
-<img src="docs/dashboard-hr.png" alt="HR dashboard" />
+<img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/15ca934f-1e55-4b16-a461-86fb4b3cb772" />
 
-*Real-time stats, radar chart, and recent activity.*
+**Manage Users**
+<img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/15ca934f-1e55-4b16-a461-86fb4b3cb772" />
+<img width="1903" height="997" alt="image" src="https://github.com/user-attachments/assets/ca0ebcec-cb73-462c-9a6d-3ea70efefaa0" />
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Calon Karyawan (candidate employee)**
+<img width="1914" height="999" alt="image" src="https://github.com/user-attachments/assets/b24c4d1b-6753-4592-8258-52e7e9a20d12" />
 
-**Live Proctoring Session**
-<img src="docs/proctoring.png" alt="Proctoring in progress" />
+<img width="1903" height="949" alt="image" src="https://github.com/user-attachments/assets/42162e94-012a-458f-a058-ad83a6574bf7" />
 
-*Mandatory camera, fullscreen enforcement, live integrity score.*
+<img width="1891" height="985" alt="image" src="https://github.com/user-attachments/assets/81e78597-3aa5-41e9-9cc4-f172a9480b58" />
 
-</td>
-<td width="50%">
+**Test**
+<img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/980e7bb2-63a4-4693-842a-b375077f0ee9" />
+<img width="1915" height="928" alt="image" src="https://github.com/user-attachments/assets/bb972a19-312e-4183-a9a0-0629b6e94371" />
 
-**Question Grid Navigation**
-<img src="docs/question-grid.png" alt="Question grid" />
+<img width="1912" height="943" alt="image" src="https://github.com/user-attachments/assets/3e42acbb-917c-4c40-9ce0-f5f196cdf5c0" />
 
-*Collapsible 1–60 grid with color-coded status.*
+<img width="1917" height="949" alt="image" src="https://github.com/user-attachments/assets/b127a2b1-6bee-4618-8a29-e824930f4aca" />
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Result Test**
+<img width="1867" height="1006" alt="image" src="https://github.com/user-attachments/assets/2eaa522f-c468-4e0f-afc8-2a2180832830" />
 
-**Integrity Report**
-<img src="docs/integrity.png" alt="Integrity report" />
+**Report Test**
+<img width="1918" height="1002" alt="image" src="https://github.com/user-attachments/assets/d244835d-482b-4c0f-92c2-bbb98042a6dd" />
 
-*Full audit trail — timestamps, score deltas, classification.*
 
-</td>
-<td width="50%">
 
-**Results & Evaluation**
-<img src="docs/results.png" alt="Results screen" />
-
-*Auto-evaluated scores with interpretation labels.*
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>Local development screenshots</b></summary>
-<br>
-
-**Dev server (Vite + SvelteKit)**
-<img src="docs/dev-server.png" alt="Dev server output" />
-
-**Migration output**
-<img src="docs/migration.png" alt="Migration output" />
-
-</details>
 
 ---
 
@@ -525,9 +496,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 👨‍💻 Author
 
 **Eben Nezer Manurung**
-Full Stack Developer · Backend Engineer
+Full Stack Developer • Backend Engineer
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EbenEzerManurung)
 
 ⭐ *If this project helped you, please consider giving it a star.*
 
