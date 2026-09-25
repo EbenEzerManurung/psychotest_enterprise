@@ -1,11 +1,6 @@
 <div align="center">
 
-<img
-  width="110"
-  height="110"
-  alt="Psychotest Enterprise"
-  src="./assets/psychotest-enterprise-icon.png"
-/>
+<img width="450" height="466" alt="image" src="https://github.com/user-attachments/assets/1ecda7fd-5a35-4c69-a96b-1d099af5f10a" />
 
 # Psychotest Enterprise
 ### Assessment Platform for Modern Hiring
