@@ -103,6 +103,13 @@ Includes a full violation timeline with timestamps and score deltas, camera-upti
 - Three-tier RBAC: **Superadmin**, **HR**, **Candidate**
 - Full user CRUD with self-protection against deleting the superadmin account
 
+### 📱 Progressive Web App — Offline-Ready
+- **Installable on any device** — desktop, tablet, or mobile, no app store required
+- **Offline-capable** via service worker caching, so the interface keeps working through brief connectivity drops instead of failing outright
+- **App-like experience** — launches in its own window with custom icons, no browser chrome
+- **Resilient for on-site testing** — well suited to test centers or office environments with unstable Wi-Fi, reducing the risk of a candidate losing progress mid-session
+- **Fast repeat loads** — cached static assets mean the app shell loads instantly on return visits
+
 ---
 
 ## 👑 Roles & Permissions
