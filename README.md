@@ -1,5 +1,7 @@
 <div align="center">
 
+🧠
+
 # Psychotest Enterprise
 
 ### AI-Proctored Psychometric Assessment Platform for Modern Hiring
@@ -12,7 +14,10 @@
 ![Svelte](https://img.shields.io/badge/Svelte-5.57-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-4.3.3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.4-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-Secure-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-Ready-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-active--development-brightgreen?style=for-the-badge)
 
@@ -22,7 +27,7 @@
 
 ---
 
-## Overview
+## 📖 Overview
 
 **Psychotest Enterprise** is an end-to-end psychometric assessment platform that helps HR teams run intelligent, secure, and tamper-resistant candidate screening — from registration and test assignment to live camera proctoring, integrity scoring, and analytics-driven reporting.
 
@@ -43,7 +48,7 @@ Built on a **SvelteKit + Node.js** backend and a **Svelte 5 (Runes) + Tailwind C
 
 ---
 
-## Key Features
+## ✨ Key Features
 
 ### 🎥 AI-Powered Proctoring
 - Mandatory camera access before a session can start
@@ -100,7 +105,7 @@ Includes a full violation timeline with timestamps and score deltas, camera-upti
 
 ---
 
-## Roles & Permissions
+## 👑 Roles & Permissions
 
 | Role | Level | Dashboard | Users | Candidates | Questions | Tests | Results | Export |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -110,7 +115,7 @@ Includes a full violation timeline with timestamps and score deltas, camera-upti
 
 ---
 
-## Technology Stack
+## 🛠️ Technology Stack
 
 | Layer | Technology |
 |---|---|
@@ -134,7 +139,7 @@ Includes a full violation timeline with timestamps and score deltas, camera-upti
 
 ---
 
-## Architecture
+## 🏗️ Architecture
 
 Psychotest Enterprise follows a clean, layered architecture with strict separation of concerns. Every protected route passes through authentication hooks and RBAC guards before it ever touches the database.
 
@@ -175,7 +180,7 @@ Psychotest Enterprise follows a clean, layered architecture with strict separati
 
 ---
 
-## AI-Powered Proctoring
+## 🎥 AI-Powered Proctoring
 
 The proctoring engine enforces integrity through independent, layered checks:
 
@@ -214,7 +219,7 @@ The proctoring engine enforces integrity through independent, layered checks:
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 psychotest-app/
@@ -266,7 +271,7 @@ psychotest-app/
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -352,7 +357,7 @@ The app runs on port `3000` by default (configurable via the `PORT` environment 
 
 ---
 
-## Design System
+## 🎨 Design System
 
 Psychotest Enterprise uses a calm green palette designed for long test sessions — reducing eye strain and supporting focus during cognitive assessments.
 
@@ -370,7 +375,7 @@ Psychotest Enterprise uses a calm green palette designed for long test sessions 
 
 ---
 
-## Security Highlights
+## 🔒 Security Highlights
 
 - **JWT sessions** — stateless, 8-hour expiry, httpOnly cookies
 - **bcrypt** password hashing (cost factor 12)
@@ -385,7 +390,7 @@ Psychotest Enterprise uses a calm green palette designed for long test sessions 
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 <table>
 <tr>
@@ -458,7 +463,7 @@ Psychotest Enterprise uses a calm green palette designed for long test sessions 
 
 ---
 
-## Roadmap
+## 🎯 Roadmap
 
 **Shipped**
 - [x] Role-based access control (3 roles)
@@ -487,7 +492,7 @@ Psychotest Enterprise uses a calm green palette designed for long test sessions 
 
 ---
 
-## Design Philosophy
+## 🧭 Design Philosophy
 
 **Why Runes?** Svelte 5's Runes (`$state`, `$derived`, `$props`, `$effect`) provide explicit reactivity that scales cleanly across complex state machines — test timers, proctoring events, multi-step navigation — without the implicit magic of legacy reactivity.
 
@@ -497,7 +502,7 @@ Psychotest Enterprise uses a calm green palette designed for long test sessions 
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome.
 
@@ -509,7 +514,7 @@ Contributions, issues, and feature requests are welcome.
 
 ---
 
-## License
+## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
@@ -517,7 +522,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-## Author
+## 👨‍💻 Author
 
 **Eben Nezer Manurung**
 Full Stack Developer · Backend Engineer
