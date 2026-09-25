@@ -1,8 +1,14 @@
 <div align="center">
 
-<img width="110" height="110" alt="Psychotest Enterprise" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9d1-200d-1f4bb.png" />
+<img
+  width="110"
+  height="110"
+  alt="Psychotest Enterprise"
+  src="./assets/psychotest-enterprise-icon.png"
+/>
 
-# Psychotest Enterprise Assessment Platform for Modern Hiring
+# Psychotest Enterprise
+### Assessment Platform for Modern Hiring
 
 *A production-grade, full-stack testing system with real-time integrity monitoring, adaptive scoring, and enterprise reporting — built for HR teams who need to screen candidates fairly, securely, and at scale.*
 
