@@ -183,3 +183,42 @@ The system demonstrates a real-world, enterprise-style implementation of:
 ## 🏗 Architecture
 
 Psychotest Enterprise follows a clean layered architecture with strict separation of concerns. Every protected route passes through authentication hooks and RBAC guards, ensuring zero unauthorized access.
+
+
+┌──────────────────────────────────────┐
+│      Client (Browser / PWA)          │
+│  SvelteKit + Svelte 5 Runes + TW4    │
+└───────────────┬──────────────────────┘
+                │  Form Actions + REST
+                │  (JSON over HTTP)
+┌───────────────▼──────────────────────┐
+│         Node.js Runtime               │
+│       (SvelteKit + Adapter)           │
+│                                        │
+│  ┌──────────────────────────────────┐ │
+│  │      hooks.server.ts              │ │
+│  │   • JWT Verify  • Flash Read      │ │
+│  └────────────┬─────────────────────┘ │
+│               │                        │
+│  ┌────────────▼─────────────────────┐ │
+│  │      Route Guards                 │ │
+│  │   • requireAuth  • requirePerm    │ │
+│  └────────────┬─────────────────────┘ │
+│               │                        │
+│  ┌────────────▼─────────────────────┐ │
+│  │    +page.server.ts (Loaders)     │ │
+│  │   • SQL queries  • Validation     │ │
+│  └────────────┬─────────────────────┘ │
+│               │                        │
+│  ┌────────────▼─────────────────────┐ │
+│  │    Server Library                 │ │
+│  │  • db.ts  • auth.ts  • rbac.ts    │ │
+│  │  • guard.ts  • scoring.ts         │ │
+│  └────────────┬─────────────────────┘ │
+└───────────────┼────────────────────────┘
+                │
+┌───────────────▼────────────────────────┐
+│              MySQL 8.4                 │
+│  (17 tables with FK constraints +     │
+│   proctoring logs + snapshots)         │
+└────────────────────────────────────────┘
