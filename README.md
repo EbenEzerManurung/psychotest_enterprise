@@ -10,7 +10,7 @@
 <br/>
 
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-2.8-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-5.57-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-5.56.1-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-4.3.3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -31,7 +31,7 @@
 
 **Psychotest Enterprise** is an end-to-end psychometric assessment platform that helps HR teams run intelligent, secure, and tamper-resistant candidate screening — from registration and test assignment to live camera proctoring, integrity scoring, and analytics-driven reporting.
 
-Built on a **SvelteKit + Node.js** backend and a **Svelte 5 (Runes) + Tailwind CSS v4** frontend, the platform demonstrates a real-world, enterprise-style implementation of:
+Built on a **SvelteKit + Node.js** backend and a **Svelte 5.56.1 (Runes) + Tailwind CSS v4.3.3** frontend, the platform demonstrates a real-world, enterprise-style implementation of:
 
 | | |
 |---|---|
