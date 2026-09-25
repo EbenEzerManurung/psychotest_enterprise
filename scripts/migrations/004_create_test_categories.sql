@@ -1,0 +1,17 @@
+CREATE TABLE test_categories (
+  id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+  code VARCHAR(20) NOT NULL UNIQUE,
+  name VARCHAR(100) NOT NULL,
+  description TEXT,
+  total_time_seconds INT UNSIGNED DEFAULT 0,
+  time_per_question_seconds INT UNSIGNED DEFAULT 0,
+  is_active TINYINT(1) DEFAULT 1
+) ENGINE=InnoDB;
+
+CREATE TABLE test_subcategories (
+  id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+  category_id INT UNSIGNED NOT NULL,
+  code VARCHAR(20) NOT NULL,
+  name VARCHAR(100) NOT NULL,
+  FOREIGN KEY (category_id) REFERENCES test_categories(id) ON DELETE CASCADE
+) ENGINE=InnoDB;

@@ -1,0 +1,9 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "json.schemaDownload.enable": false,
+  "files.associations": {
+    "*.svelte": "svelte"
+  },
+  "svelte.enable-ts-plugin": true
+}
