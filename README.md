@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="90" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9d1-200d-1f4bb.png" alt="person working on laptop" />
+<img width="96" height="96" alt="Psychotest Enterprise" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgdmlld0JveD0iMCAwIDE2MCAxNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxNjAiIHkyPSIxNjAiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMTU4MDNkIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzIyYzU1ZSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgeD0iNCIgeT0iNCIgd2lkdGg9IjE1MiIgaGVpZ2h0PSIxNTIiIHJ4PSIzNiIgZmlsbD0idXJsKCNiZykiLz4KICA8cmVjdCB4PSI0IiB5PSI0IiB3aWR0aD0iMTUyIiBoZWlnaHQ9IjE1MiIgcng9IjM2IiBzdHJva2U9IiNmMGZkZjQiIHN0cm9rZS1vcGFjaXR5PSIwLjI1IiBzdHJva2Utd2lkdGg9IjIiLz4KICA8cmVjdCB4PSI0MiIgeT0iNDYiIHdpZHRoPSI3NiIgaGVpZ2h0PSI1NCIgcng9IjciIGZpbGw9IiNmMGZkZjQiLz4KICA8cmVjdCB4PSI1MiIgeT0iNTYiIHdpZHRoPSI1NiIgaGVpZ2h0PSIzNCIgcng9IjMiIGZpbGw9IiMxNTgwM2QiLz4KICA8cGF0aCBkPSJNMzAgMTA4IEg5MyBMMTMwIDEwOCBDMTMwIDEyMCAxMjIgMTI4IDExMCAxMjggSDUwIEMzOCAxMjggMzAgMTIwIDMwIDEwOCBaIiBmaWxsPSIjZjBmZGY0Ii8+CiAgPGNpcmNsZSBjeD0iODAiIGN5PSI3MyIgcj0iMTEiIGZpbGw9IiNmMGZkZjQiLz4KICA8cGF0aCBkPSJNNzUuNSA3My41IEw3OC41IDc2LjUgTDg1IDY5IiBzdHJva2U9IiMxNTgwM2QiIHN0cm9rZS13aWR0aD0iMi44IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiLz4KPC9zdmc+" />
+
 
 # Psychotest Enterprise
 
@@ -429,7 +430,14 @@ Psychotest Enterprise uses a calm green palette designed for long test sessions 
 **Report Test**
 <img width="1918" height="1002" alt="image" src="https://github.com/user-attachments/assets/d244835d-482b-4c0f-92c2-bbb98042a6dd" />
 
+<details>
+<summary><b>🖥️ Local Run Program</b></summary>
+<br>
 
+**Local Run Program on Git**
+<img width="1150" height="303" alt="image" src="https://github.com/user-attachments/assets/26b7c7b9-320c-43ab-a795-b2830417b8d3" />
+
+</details>
 
 
 ---
